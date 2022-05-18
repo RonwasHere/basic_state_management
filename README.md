@@ -1,16 +1,15 @@
 # basic_state_management
 
-A new Flutter project.
+A new Flutter project if option get clicked something will happend.
 
-## Getting Started
+before clik
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/97945445/168999352-b07f41ca-73c5-4e9c-bd6e-e26efcbc511b.png)
 
-A few resources to get you started if this is your first Flutter project:
+after click, there is blue button showup and there is rounded circle in option
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![image](https://user-images.githubusercontent.com/97945445/168999745-a3440b31-cd8b-4163-881d-f32df68d7a3d.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
